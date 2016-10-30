@@ -1,3 +1,13 @@
 <h1>
   {{title}}
 </h1>
+<ul>
+  <li class="text" *ngFor="let item of items | async">
+    {{item.email}}
+  </li>
+</ul>
+<ul>
+  <li class="text" *ngFor="let book of books | async">
+    <book [book]="book"></book>
+  </li>
+</ul>
