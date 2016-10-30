@@ -6,6 +6,7 @@
         {{item.email}}
     </li>
 </ul>
-<div *ngFor="let book of books | async">
-    <book [book]="book"></book>
-</div>
+<book-list
+    [books]="books | async">
+</book-list>
+

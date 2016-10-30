@@ -7,6 +7,7 @@ import {AngularFireModule} from 'angularfire2';
 import {AppComponent} from './app.component';
 import {GoogleBooksService} from './google-books/google-books.service';
 import {BookComponent} from './book/book.components';
+import { BookListComponent } from './book-list/book-list.component';
 
 export const firebaseConfig = {
     apiKey: "AIzaSyBj1PXcwjmVh5mRrWK5kEThuFK5dXLFibQ",
@@ -20,7 +21,8 @@ export const firebaseConfig = {
 @NgModule({
     declarations: [
         AppComponent,
-        BookComponent
+        BookComponent,
+        BookListComponent
     ],
     imports: [
         BrowserModule,
