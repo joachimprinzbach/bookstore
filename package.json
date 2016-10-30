@@ -8,6 +8,7 @@
     "lint": "tslint \"src/**/*.ts\"",
     "test": "ng test",
     "pree2e": "webdriver-manager update",
+    "deploy": "ng github-pages:deploy",
     "e2e": "protractor"
   },
   "private": true,
