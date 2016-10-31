@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import {AngularFire, FirebaseListObservable} from 'angularfire2';
-import {GoogleBooksService} from './google-books/google-books.service';
+import {GoogleBooksService} from './shared/google-books.service';
 import {Observable} from 'rxjs';
 import {BookVolume} from './custom-types/bookVolume';
 
