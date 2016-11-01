@@ -1,12 +1,22 @@
-<h1>
-    {{title}}
-</h1>
-<ul>
-    <li class="text" *ngFor="let item of items | async">
-        {{item.email}}
-    </li>
-</ul>
-<book-list
-    [books]="books | async">
-</book-list>
+<app-layout
+    [title]="title"
+>
+    <layout-header>
+        Header is here
+    </layout-header>
 
+    <layout-body>
+        <ul>
+            <li class="text" *ngFor="let item of items | async">
+                {{item.email}}
+            </li>
+        </ul>
+    </layout-body>
+
+    <layout-footer>
+        <book-list
+                [books]="books | async">
+        </book-list>
+    </layout-footer>
+
+</app-layout>

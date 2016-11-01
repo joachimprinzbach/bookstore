@@ -17,5 +17,6 @@ export class AppComponent {
   constructor(angularFire: AngularFire, googleBookService: GoogleBooksService) {
     this.items = angularFire.database.list('/');
     this.books = googleBookService.getShelf();
+    googleBookService.getBookByGoogleBookId("njYtngEACAAJ").subscribe(console.log);
   }
 }

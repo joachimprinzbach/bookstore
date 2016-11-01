@@ -1,0 +1,10 @@
+<div>
+    <div class="layout-header">
+        <h1>{{title}}</h1>
+        <ng-content select="layout-header"></ng-content>
+    </div>
+    <ng-content select="layout-body"></ng-content>
+    <div class="layout-footer">
+        <ng-content select="layout-footer"></ng-content>
+    </div>
+</div>
