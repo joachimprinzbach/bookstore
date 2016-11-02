@@ -3,7 +3,7 @@ import {BookComponent} from './book.component';
 import {MaterialModule} from '@angular/material';
 import {Component, DebugElement} from '@angular/core';
 import {By} from '@angular/platform-browser';
-import {BookVolume} from 'app/custom-types/bookVolume';
+import {BookVolume} from '../custom-types/bookVolume';
 
 @Component({
     template: `<book  [book]="book"></book>`
