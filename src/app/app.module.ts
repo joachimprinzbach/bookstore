@@ -6,7 +6,7 @@ import {HttpModule} from '@angular/http';
 import {AngularFireModule} from 'angularfire2';
 import {AppComponent} from './app.component';
 import {GoogleBooksService} from './shared/google-books.service';
-import {BookComponent} from './book/book.components';
+import {BookComponent} from './book/book.component';
 import { BookListComponent } from './book-list/book-list.component';
 import { LayoutComponent } from './layout/layout.component';
 
