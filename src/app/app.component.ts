@@ -18,7 +18,7 @@ export class AppComponent implements OnInit {
     }
 
     ngOnInit() {
-        this.books = Observable.combineLatest(this.googleBookService.getShelfMock(), this.angularFire.database.list('/items'))
+        this.books = Observable.combineLatest(this.googleBookService.getShelf(), this.angularFire.database.list('/items'))
             .map(data => {
                 let books: BookVolume[] = data[0];
                 let items: BookStatus[] = data[1];
