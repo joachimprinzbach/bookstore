@@ -8,7 +8,6 @@ import {AppComponent} from './app.component';
 import {GoogleBooksService} from './shared/google-books.service';
 import {BookComponent} from './book/book.component';
 import { BookListComponent } from './book-list/book-list.component';
-import { LayoutComponent } from './layout/layout.component';
 
 export const firebaseConfig = {
     apiKey: "AIzaSyBj1PXcwjmVh5mRrWK5kEThuFK5dXLFibQ",
@@ -23,8 +22,7 @@ export const firebaseConfig = {
     declarations: [
         AppComponent,
         BookComponent,
-        BookListComponent,
-        LayoutComponent
+        BookListComponent
     ],
     imports: [
         BrowserModule,

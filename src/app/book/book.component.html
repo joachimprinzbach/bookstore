@@ -8,6 +8,8 @@
         <p [innerHtml]="book.volumeInfo.description"></p>
     </md-card-content>
     <md-card-footer class="footer">
+        <md-icon *ngIf="book.volumeInfo.synced">sync</md-icon>
+        <md-icon *ngIf="!book.volumeInfo.synced">sync_disabled</md-icon>
         <p>{{book.volumeInfo.authors}}</p>
     </md-card-footer>
     <md-card-actions align="end">
