@@ -1,0 +1,1559 @@
+{
+  "items": [
+    {
+      "id": "njYtngEACAAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/njYtngEACAAJ",
+      "volumeInfo": {
+        "title": "Scrum Mastery",
+        "subtitle": "From Good to Great Servant Leadership",
+        "authors": [
+          "Geoff Watts"
+        ],
+        "publishedDate": "2013-05-30",
+        "description": "The basics of being a ScrumMaster are fairly straightforward: At face value all a ScrumMaster needs to do is facilitate the Scrum process and remove impediments. But being a great ScrumMaster, one who truly embodies the principles of servant ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0957587406"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780957587403"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 281,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=njYtngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=njYtngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=njYtngEACAAJ&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=njYtngEACAAJ&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "6TdODAAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6TdODAAAQBAJ",
+      "volumeInfo": {
+        "title": "Selbstorganisierte Teams führen",
+        "subtitle": "Arbeitsbuch für Lean & Agile Professionals",
+        "authors": [
+          "Siegfried Kaltenecker"
+        ],
+        "publisher": "dpunkt.verlag",
+        "publishedDate": "2016-02-02",
+        "description": "»Die besten Architekturen, Anforderungen und Entwürfe entstehen durch selbstorganisierte Teams«, behauptet das Agile Manifest. DieseBehauptung wirft einige Fragen auf: Wie sehen solche Teams aus? Welche Form der Führung brauchen sie? Und wie kann ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783864918865"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3864918863"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 244,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6TdODAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6TdODAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=6TdODAAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6TdODAAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "Ct76ol0PnokC",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ct76ol0PnokC",
+      "volumeInfo": {
+        "title": "Coaching Agile Teams",
+        "subtitle": "A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition",
+        "authors": [
+          "Lyssa Adkins"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2010-05-18",
+        "description": "The Provocative and Practical Guide to Coaching Agile Teams As an agile coach, you can help project teams become outstanding at agile, creating products that make them proud and helping organizations reap the powerful benefits of teams that ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780321660350"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0321660358"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 352,
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5.0,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ct76ol0PnokC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ct76ol0PnokC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=Ct76ol0PnokC&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ct76ol0PnokC&source=gbs_api"
+      }
+    },
+    {
+      "id": "hNhNDAAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hNhNDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Gradle",
+        "subtitle": "Ein kompakter Einstieg in das Build-Management-System",
+        "authors": [
+          "Joachim Baumann"
+        ],
+        "publisher": "dpunkt.verlag",
+        "publishedDate": "2013-07-25",
+        "description": "Gradle ist ein modernes Build-Management-System, das auf Groovy basiert und sich immer mehr zu einer Konkurrenz für bestehende Tools entwickelt. Gradle kann sehr gut auf Spezifika der eigenen Umgebung und der eigenen Probleme angepasst werden und ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783864913372"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3864913373"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 260,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hNhNDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hNhNDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=hNhNDAAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hNhNDAAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "BE8BBAAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BE8BBAAAQBAJ",
+      "volumeInfo": {
+        "title": "You Don't Know JS: this & Object Prototypes",
+        "authors": [
+          "Kyle Simpson"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2014-07-11",
+        "description": "No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. This concise, in-depth guide takes you inside JavaScript’s this structure and object prototypes. You’ll learn how they work and why they’re ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491904121"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491904127"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 174,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BE8BBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BE8BBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=BE8BBAAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BE8BBAAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "f2vIBgAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f2vIBgAAQBAJ",
+      "volumeInfo": {
+        "title": "You Don't Know JS: Async & Performance",
+        "authors": [
+          "Kyle Simpson"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2015-02-23",
+        "description": "No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. As part of the \"You Don’t Know JS\" series, this concise yet in-depth guide focuses on new asynchronous features and performance techniques ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491905210"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491905212"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 296,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f2vIBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f2vIBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=f2vIBgAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=f2vIBgAAQBAJ&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "iOc6CwAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iOc6CwAAQBAJ",
+      "volumeInfo": {
+        "title": "You Don't Know JS: ES6 & Beyond",
+        "authors": [
+          "Kyle Simpson"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2015-12-17",
+        "description": "No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. As part of the \"You Don’t Know JS\" series, this compact guide focuses on new features available in ECMAScript 6 (ES6), the latest version of ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491905258"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491905255"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 278,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iOc6CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iOc6CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=iOc6CwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iOc6CwAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "NOFwBgAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NOFwBgAAQBAJ",
+      "volumeInfo": {
+        "title": "You Don't Know JS: Types & Grammar",
+        "authors": [
+          "Kyle Simpson",
+          "Kyle Simpson, (Ja"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2015-01-29",
+        "description": "No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. As part of the \"You Don’t Know JS\" series, this compact guide explores JavaScript types in greater depth than previous treatments by looking ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491904183"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491904186"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 198,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NOFwBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NOFwBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=NOFwBgAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=NOFwBgAAQBAJ&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "25AEAwAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/25AEAwAAQBAJ",
+      "volumeInfo": {
+        "title": "You Don't Know JS: Scope & Closures",
+        "authors": [
+          "Kyle Simpson"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2014-03-10",
+        "description": "No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. This concise yet in-depth guide takes you inside scope and closures, two core concepts you need to know to become a more efficient and ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449335540"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449335543"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 98,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=25AEAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=25AEAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=25AEAwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=25AEAwAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "uSWABwAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uSWABwAAQBAJ",
+      "volumeInfo": {
+        "title": "You Don't Know JS: Up & Going",
+        "authors": [
+          "Kyle Simpson"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2015-03-20",
+        "description": "It’s easy to learn parts of JavaScript, but much harder to learn it completely—or even sufficiently—whether you’re new to the language or have used it for years. With the \"You Don’t Know JS\" book series, you’ll get a more complete understanding ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491924426"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "149192442X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 88,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uSWABwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uSWABwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=uSWABwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uSWABwAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "rHBZAwAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rHBZAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Clean Coder",
+        "subtitle": "Verhaltensregeln für professionelle Programmierer",
+        "authors": [
+          "Robert C. Martin"
+        ],
+        "publisher": "mitp Verlags GmbH & Co. KG",
+        "publishedDate": "2014-03-26",
+        "description": "Verhaltensregeln für professionelle Programmierer Erfolgreiche Programmierer haben eines gemeinsam: Die Praxis der Software-Entwicklung ist ihnen eine Herzensangelegenheit. Auch wenn sie unter einem nicht nachlassenden Druck arbeiten, setzen sie ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783826696954"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3826696956"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 216,
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.0,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rHBZAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rHBZAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=rHBZAwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=rHBZAwAAQBAJ&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "rorlAwAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rorlAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Principles of Object-Oriented JavaScript",
+        "subtitle": "",
+        "authors": [
+          "Nicholas C. Zakas"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2014-02-14",
+        "description": "If you've used a more traditional object-oriented language, such as C++ or Java, JavaScript probably doesn't seem object-oriented at all. It has no concept of classes, and you don’t even need to define any objects in order to write code. But don ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781593275402"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1593275404"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 120,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rorlAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rorlAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=rorlAwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rorlAwAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "nBuA0hmspdMC",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nBuA0hmspdMC",
+      "volumeInfo": {
+        "title": "Effective JavaScript",
+        "subtitle": "68 Specific Ways to Harness the Power of JavaScript",
+        "authors": [
+          "David Herman"
+        ],
+        "publisher": "Addison-Wesley",
+        "publishedDate": "2012-11-26",
+        "description": "“It’s uncommon to have a programming language wonk who can speak in such comfortable and friendly language as David does. His walk through the syntax and semantics of JavaScript is both charming and hugely insightful; reminders of gotchas ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780132902250"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0132902257"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 240,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nBuA0hmspdMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nBuA0hmspdMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=nBuA0hmspdMC&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nBuA0hmspdMC&source=gbs_api"
+      }
+    },
+    {
+      "id": "WTZqecc9olUC",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WTZqecc9olUC",
+      "volumeInfo": {
+        "title": "JavaScript Patterns",
+        "authors": [
+          "Stoyan Stefanov"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2010-09-09",
+        "description": "What's the best approach for developing an application with JavaScript? This book helps you answer that question with numerous JavaScript coding patterns and best practices. If you're an experienced developer looking to solve problems related to ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449396947"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449396941"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 236,
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5.0,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WTZqecc9olUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WTZqecc9olUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=WTZqecc9olUC&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WTZqecc9olUC&source=gbs_api"
+      }
+    },
+    {
+      "id": "acV4CwAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/acV4CwAAQBAJ",
+      "volumeInfo": {
+        "title": "Frontend Architecture for Design Systems",
+        "subtitle": "A Modern Blueprint for Scalable and Sustainable Websites",
+        "authors": [
+          "Micah Godbolt"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2016-01-28",
+        "description": "Imagine what a large-scale web project would look like if frontend development were not treated as an add-on, but as an equal partner with backend development and content strategy. This practical book takes experienced web developers through the ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491926734"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491926732"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 198,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=acV4CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=acV4CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=acV4CwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=acV4CwAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "ThegoAEACAAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ThegoAEACAAJ",
+      "volumeInfo": {
+        "title": "Javascript Application Design",
+        "subtitle": "A Build First Approach",
+        "authors": [
+          "Nicolas Bevacqua"
+        ],
+        "publisher": "Manning Publications",
+        "publishedDate": "2015-02-16",
+        "description": "Summary JavaScript Application Design: A Build First Approach introduces JavaScript developers to techniques that will improve the quality of their software as well as their web development workflow. You'll begin by learning how to establish ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1617291951"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781617291951"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 344,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ThegoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ThegoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=ThegoAEACAAJ&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=ThegoAEACAAJ&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "aPWsDAAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aPWsDAAAQBAJ",
+      "volumeInfo": {
+        "title": "React: Up & Running",
+        "subtitle": "Building Web Applications",
+        "authors": [
+          "Stoyan Stefanov"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2016-07-14",
+        "description": "Hit the ground running with React, the open-source technology from Facebook for building rich web applications fast. With this practical guide, Yahoo! web developer Stoyan Stefanov teaches you how to build components—React’s basic building ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491931790"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491931795"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 222,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aPWsDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aPWsDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=aPWsDAAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=aPWsDAAAQBAJ&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "KfW-AAAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KfW-AAAAQBAJ",
+      "volumeInfo": {
+        "title": "High Performance Browser Networking",
+        "subtitle": "What Every Web Developer Should Know about Networking and Web Performance",
+        "authors": [
+          "Ilya Grigorik"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2013-09-11",
+        "description": "Highlights innovations for building even more powerful browser apps including HTTP 2.0, XHR improvements, Server-Sent Events (SSEs), WebSocket, and WebRTC.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449344740"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449344747"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 408,
+        "categories": [
+          "COMPUTERS"
+        ],
+        "averageRating": 4.0,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KfW-AAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KfW-AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=KfW-AAAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=KfW-AAAAQBAJ&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "qU3rAgAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qU3rAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Speaking JavaScript",
+        "subtitle": "An In-Depth Guide for Programmers",
+        "authors": [
+          "Axel Rauschmayer"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2014-02-25",
+        "description": "Like it or not, JavaScript is everywhere these days—from browser to server to mobile—and now you, too, need to learn the language or dive deeper than you have. This concise book guides you into and through JavaScript, written by a veteran ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449364991"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449364993"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 460,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qU3rAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qU3rAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=qU3rAgAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qU3rAgAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "PIQCtwAACAAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PIQCtwAACAAJ",
+      "volumeInfo": {
+        "title": "Professional JavaScript for Web Developers",
+        "authors": [
+          "Nicholas C. Zakas"
+        ],
+        "publisher": "Wrox",
+        "publishedDate": "2012-01-18",
+        "description": "This book provides a developer-level introduction along with more advanced and useful features of JavaScript. Coverage includes: JavaScript use with HTML to create dynamic webpages, language concepts including syntax and flow control statements ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1118026691"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118026694"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 960,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PIQCtwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PIQCtwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=PIQCtwAACAAJ&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=PIQCtwAACAAJ&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "W218yMY2MhcC",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W218yMY2MhcC",
+      "volumeInfo": {
+        "title": "Test-Driven JavaScript Development",
+        "authors": [
+          "Christian Johansen"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2010-09-09",
+        "description": "For JavaScript developers working on increasingly large and complex projects, effective automated testing is crucial to success. Test-Driven JavaScript Development is a complete, best-practice guide to agile JavaScript testing and quality ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780321684059"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0321684052"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 480,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W218yMY2MhcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W218yMY2MhcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=W218yMY2MhcC&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=W218yMY2MhcC&source=gbs_api"
+      }
+    },
+    {
+      "id": "TabnrQEACAAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TabnrQEACAAJ",
+      "volumeInfo": {
+        "title": "Professionell entwickeln mit JavaScript",
+        "subtitle": "Design, Patterns und Praxistipps für Enterprise-fähigen Code",
+        "authors": [
+          "Philip Ackermann"
+        ],
+        "publishedDate": "2015-04",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3836223791"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783836223799"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 450,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TabnrQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TabnrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=TabnrQEACAAJ&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=TabnrQEACAAJ&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "FdhNDAAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FdhNDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Git",
+        "subtitle": "Dezentrale Versionsverwaltung im Team Grundlagen und Workflows",
+        "authors": [
+          "Bjørn Stachmann",
+          "René Preißel"
+        ],
+        "publisher": "dpunkt.verlag",
+        "publishedDate": "2015-11-11",
+        "description": "Git ist eine der beliebtesten Versionsverwaltungen. Die Vielfalt an Kommandos, Optionen und Konfigurationen wirkt anfangs aber oft einschüchternd - obwohl die Grundkonzepte einfach sind, und man schon mit wenigen davon effektiv arbeiten kann. Die ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783864918186"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3864918189"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 348,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FdhNDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FdhNDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=FdhNDAAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FdhNDAAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "oThODAAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oThODAAAQBAJ",
+      "volumeInfo": {
+        "title": "Der Java-Profi: Persistenzlösungen und REST-Services",
+        "subtitle": "Datenaustauschformate, Datenbankentwicklung und verteilte Anwendungen",
+        "authors": [
+          "Michael Inden"
+        ],
+        "publisher": "dpunkt.verlag",
+        "publishedDate": "2016-06-01",
+        "description": "Wenn Sie bereits komplexe Java-Applikationen für den Desktop-Bereich schreiben, können Sie sich an Unternehmensanwendungen als weitere Herausforderung wagen. Dabei kommen Sie früher oder später mit Datenbanken, den Datenformaten XML oder JSON und ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783864919619"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3864919614"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 404,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oThODAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oThODAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=oThODAAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oThODAAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "EtdNDAAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EtdNDAAAQBAJ",
+      "volumeInfo": {
+        "title": "REST und HTTP",
+        "subtitle": "Entwicklung und Integration nach dem Architekturstil des Web",
+        "authors": [
+          "Stefan Tilkov",
+          "Silvia Schreier",
+          "Martin Eigenbrodt",
+          "Oliver Wolf"
+        ],
+        "publisher": "dpunkt.verlag",
+        "publishedDate": "2015-05-06",
+        "description": "Das Buch bietet eine theoretisch fundierte, vor allem aber praxistaugliche Anleitung zum professionellen Einsatz von RESTful HTTP. Es beschreibt den Architekturstil REST (Representational State Transfer) und seine Umsetzung im Rahmen der ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783864916441"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3864916445"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 330,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EtdNDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EtdNDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=EtdNDAAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EtdNDAAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "RTJODAAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RTJODAAAQBAJ",
+      "volumeInfo": {
+        "title": "AngularJS",
+        "subtitle": "Eine praktische Einführung in das JavaScript-Framework",
+        "authors": [
+          "Robin Böhm",
+          "Philipp Tarasiewicz"
+        ],
+        "publisher": "dpunkt.verlag",
+        "publishedDate": "2014-05-27",
+        "description": "Dieses Buch führt Sie anhand eines zusammenhängenden Beispielprojekts schrittweise an die Entwicklung mit dem clientseitigen Webframework AngularJS heran. Lernen Sie dabei Konzepte und Techniken kennen, mit denen Sie strukturierte, modularisierte ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783864915185"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "386491518X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 354,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RTJODAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RTJODAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=RTJODAAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RTJODAAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "S8VNDAAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S8VNDAAAQBAJ",
+      "volumeInfo": {
+        "title": "JavaScript für Enterprise-Entwickler",
+        "subtitle": "Professionell programmieren im Browser und auf dem Server",
+        "authors": [
+          "Oliver Ochs"
+        ],
+        "publisher": "dpunkt.verlag",
+        "publishedDate": "2012-07-03",
+        "description": "Immer mehr Programmierer von Enterprise-Anwendungen interessieren sich für JavaScript. Sie wollen sich schnell darin einarbeiten, sind aber oft nicht mit den gängigen JavaScript-Büchern für Webentwickler zufrieden. Nach einem schnellen Überblick ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783864911279"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3864911273"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 302,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S8VNDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S8VNDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=S8VNDAAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=S8VNDAAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "PXa2bby0oQ0C",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PXa2bby0oQ0C",
+      "volumeInfo": {
+        "title": "JavaScript: The Good Parts",
+        "subtitle": "The Good Parts",
+        "authors": [
+          "Douglas Crockford"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2008-05-08",
+        "description": "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780596554873"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0596554877"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 172,
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.5,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PXa2bby0oQ0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PXa2bby0oQ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=PXa2bby0oQ0C&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PXa2bby0oQ0C&source=gbs_api"
+      }
+    },
+    {
+      "id": "ab8CPgAACAAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ab8CPgAACAAJ",
+      "volumeInfo": {
+        "title": "Secrets of the JavaScript Ninja",
+        "authors": [
+          "John Resig",
+          "Bear Bibeault"
+        ],
+        "publisher": "Manning Publications",
+        "publishedDate": "2013",
+        "description": "In Secrets of the JavaScript Ninja, JavaScript expert John Resig reveals the inside know-how of the elite JavaScript programmers. Written to be accessible to JavaScript developers with intermediate-level skills. This book takes readers on a ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "193398869X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781933988696"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 370,
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.5,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ab8CPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ab8CPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=ab8CPgAACAAJ&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=ab8CPgAACAAJ&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "Gc1NDAAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Gc1NDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Moderne Webentwicklung",
+        "subtitle": "Geräteunabhängige Entwicklung -- Techniken und Trends in HTML5, CSS3 und JavaScript",
+        "authors": [
+          "Peter Gasston"
+        ],
+        "publisher": "dpunkt.verlag",
+        "publishedDate": "2014-02-24",
+        "description": "Webtechnologien verändern sich nahezu mit Lichtgeschwindigkeit und bringen das Internet auf immer mehr unterschiedliche Geräte. Wenn aber Nutzer je nach Situation ein Smartphone-Display, einen Desktop-Computer oder einen TV-Großbildschirm fürs ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783864914652"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3864914655"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 308,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Gc1NDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Gc1NDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=Gc1NDAAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Gc1NDAAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "UEOZBAAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UEOZBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Write Modern Web Apps with the MEAN Stack",
+        "subtitle": "Mongo, Express, AngularJS, and Node.js",
+        "authors": [
+          "Jeff Dickey"
+        ],
+        "publisher": "Peachpit Press",
+        "publishedDate": "2014-09-24",
+        "description": "Traditionally, web applications have been architected so that the back-end houses all the front-end code. This has resulted in heavy projects that are difficult to manage and scale. This book will explain a new way to write web applications by ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780133962376"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0133962377"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 256,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UEOZBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UEOZBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=UEOZBAAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UEOZBAAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "IOejDAAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IOejDAAAQBAJ",
+      "volumeInfo": {
+        "title": "React",
+        "subtitle": "Die praktische Einführung in React, React Router und Redux",
+        "authors": [
+          "Nils Hartmann",
+          "Oliver Zeigermann"
+        ],
+        "publisher": "dpunkt.verlag",
+        "publishedDate": "2016-07-07",
+        "description": "React ist ein JavaScript-Framework zur Entwicklung von Benutzeroberflächen sowohl im Browser als auch auf Mobilgeräten. Entwickelt und eingesetzt von Facebook ist es mittlerweile als Open-Source-Projekt verfügbar und hat sich bereits im Einsatz ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783864919640"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3864919649"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 342,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IOejDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IOejDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=IOejDAAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IOejDAAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "rkRArW8H_MoC",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rkRArW8H_MoC",
+      "volumeInfo": {
+        "title": "Testable JavaScript",
+        "subtitle": "Ensuring Reliable Code",
+        "authors": [
+          "Mark Ethan Trostler"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2013-01-16",
+        "description": "One skill that’s essential for any professional JavaScript developer is the ability to write testable code. This book shows you what writing and maintaining testable JavaScript for the client- or server-side actually entails, whether you’re ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449323547"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449323545"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 274,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rkRArW8H_MoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rkRArW8H_MoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=rkRArW8H_MoC&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rkRArW8H_MoC&source=gbs_api"
+      }
+    },
+    {
+      "id": "4RChxt67lvwC",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4RChxt67lvwC",
+      "volumeInfo": {
+        "title": "JavaScript",
+        "subtitle": "The Definitive Guide",
+        "authors": [
+          "David Flanagan"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2011-04-25",
+        "description": "A revised and updated edition offers comprehensive coverage of ECMAScript 5 (the new JavaScript language standard) and also the new APIs introduced in HTML5, with chapters on functions and classes completely rewritten and updated to match current ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780596805524"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0596805527"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1078,
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.5,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4RChxt67lvwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4RChxt67lvwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=4RChxt67lvwC&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=4RChxt67lvwC&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "kl_eoAEACAAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kl_eoAEACAAJ",
+      "volumeInfo": {
+        "title": "Responsive Webdesign",
+        "subtitle": "Anpassungsfähige Websites programmieren und gestalten",
+        "authors": [
+          "Kai Laborenz",
+          "Andrea Ertel"
+        ],
+        "publishedDate": "2014-12-12",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3836232006"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783836232005"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 489,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kl_eoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kl_eoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=kl_eoAEACAAJ&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=kl_eoAEACAAJ&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "nDnjoAEACAAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nDnjoAEACAAJ",
+      "volumeInfo": {
+        "title": "Webdesign",
+        "subtitle": "Das Handbuch zur Webgestaltung",
+        "authors": [
+          "Martin Hahn"
+        ],
+        "publishedDate": "2015-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3836226928"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783836226929"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 783,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nDnjoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nDnjoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=nDnjoAEACAAJ&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=nDnjoAEACAAJ&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "z7fEBgAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z7fEBgAAQBAJ",
+      "volumeInfo": {
+        "title": "HTML and CSS",
+        "subtitle": "Erfolgreich Websites gestalten und programmieren",
+        "authors": [
+          "Jon Duckett"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2015-02-19",
+        "description": "HTML und CSS lernen auf die kreative Art: Sie möchten Webseiten erstellen und gestalten und brauchen dafür noch ein wenig Grundlagenwissen? Visuelle Informationen erfassen Sie schneller und intuitiver als lange Texte? Dann ist dieses Buch für Sie ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783527687534"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "352768753X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 512,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z7fEBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z7fEBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=z7fEBgAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=z7fEBgAAQBAJ&source=gbs_api"
+      }
+    },
+    {
+      "id": "H_damwEACAAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H_damwEACAAJ",
+      "volumeInfo": {
+        "title": "HTML5-Programmierung von Kopf bis Fuss",
+        "subtitle": "Webanwendungen mit HTML5 und JavaScript",
+        "authors": [
+          "Eric Freeman",
+          "Elisabeth Robson"
+        ],
+        "publisher": "O'Reilly Verlag",
+        "publishedDate": "2012",
+        "description": "Als neueste Version der Markup-Sprache ist HTML5 vor allem praxisorientiert und auf die Entwicklung echter Webapplikationen abgestimmt - es erleichtert die Gestaltung von Webseiten mit lokaler Speicherung, macht 2-D-Zeichnungen, Geolocation und ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3868991824"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783868991826"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 573,
+        "categories": [
+          "Electronic books"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=H_damwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=H_damwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=H_damwEACAAJ&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=H_damwEACAAJ&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "oUIwBQAAQBAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oUIwBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Webdesign von Kopf bis Fuss",
+        "authors": [
+          "Ethan Watrall",
+          "Jeff Siarto"
+        ],
+        "publisher": "O'Reilly Germany",
+        "publishedDate": "2009-05-31",
+        "description": "Die erste Website steht. Endlich. War auch viel Gebastel, die ganzen Tags und Divs. Aber irgendwie ... macht sie nicht so viel her. Sind die Farben zu uncool? Ist die Navigation klar strukturiert? Und was ist eigentlich mit der Barrierefreiheit ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783955619480"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3955619486"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 496,
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oUIwBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oUIwBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=oUIwBQAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=oUIwBQAAQBAJ&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "md4uNwAACAAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/md4uNwAACAAJ",
+      "volumeInfo": {
+        "title": "Release It!",
+        "subtitle": "Design and Deploy Production-ready Software",
+        "authors": [
+          "Michael T. Nygard"
+        ],
+        "publishedDate": "2007",
+        "description": "Provides information on ways to effectively design and release an application.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0978739213"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780978739218"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 350,
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.0,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=md4uNwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=md4uNwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=md4uNwAACAAJ&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=md4uNwAACAAJ&hl=&source=gbs_api"
+      }
+    },
+    {
+      "id": "md4uNwBBCAAJ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/md4uNwAACAAJ",
+      "volumeInfo": {
+        "title": "Release It DUPLICATE!!!!!!!!!!!",
+        "subtitle": "Design and Deploy Production-ready Software",
+        "authors": [
+          "Michael T. Nygard"
+        ],
+        "publishedDate": "2007",
+        "description": "Provides information on ways to effectively design and release an application.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0978739213"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780978739218"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 350,
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.0,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=md4uNwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=md4uNwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ch/books?id=md4uNwAACAAJ&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ch/books?id=md4uNwAACAAJ&hl=&source=gbs_api"
+      }
+    }
+  ]
+}
