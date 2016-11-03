@@ -1,5 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import {AngularFire} from 'angularfire2';
+import {AngularFire, FirebaseListObservable} from 'angularfire2';
 import {GoogleBooksService} from './shared/google-books.service';
 import {Observable} from 'rxjs';
 import 'rxjs/Rx';
@@ -13,19 +13,51 @@ import {BookStatus} from './custom-types/bookStatus';
 })
 export class AppComponent implements OnInit {
     books: Observable<BookVolume[]>;
+    firebaseBooks: FirebaseListObservable<any>;
 
     constructor(private angularFire: AngularFire, private googleBookService: GoogleBooksService) {
     }
 
     ngOnInit() {
-        this.books = Observable.combineLatest(this.googleBookService.getShelf(), this.angularFire.database.list('/items'))
+        this.firebaseBooks = this.angularFire.database.list('/items');
+        this.books = Observable.combineLatest(this.googleBookService.getShelf(), this.firebaseBooks)
             .map(data => {
                 let books: BookVolume[] = data[0];
                 let items: BookStatus[] = data[1];
                 return books.map(book => {
-                    book.volumeInfo.synced = items.some(item => item.id === book.id);
+                    let correspondingFirebaseObj: BookStatus = items.find(item => item.id === book.id);
+                    let bookExistsInFirebase: boolean = !!correspondingFirebaseObj;
+                    book.volumeInfo.synced = bookExistsInFirebase;
+                    if(bookExistsInFirebase) {
+                        book.firebaseKey = correspondingFirebaseObj['$key'];
+                        book.status = correspondingFirebaseObj.status;
+                    }
                     return book;
                 });
             });
+    }
+
+    reserveBook(book: BookVolume) {
+        let newBookStatus: BookStatus = {
+            id: book.id,
+            status: "RESERVED"
+        };
+        this.firebaseBooks.update(book.firebaseKey, newBookStatus);
+    }
+
+    returnBook(book: BookVolume) {
+        let newBookStatus: BookStatus = {
+            id: book.id,
+            status: "IN_SHELF"
+        };
+        this.firebaseBooks.update(book.firebaseKey, newBookStatus);
+    }
+
+    syncBook(book: BookVolume) {
+        let newBookStatus: BookStatus = {
+            id: book.id,
+            status: "IN_SHELF"
+        };
+        this.firebaseBooks.push(newBookStatus);
     }
 }

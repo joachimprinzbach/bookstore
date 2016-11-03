@@ -15,6 +15,5 @@ export interface Book {
     language?: string;
     previewLink?: string;
     infoLink?: string;
-    synced: boolean;
-
+    synced?: boolean;
 }

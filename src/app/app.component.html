@@ -1,3 +1,6 @@
 <book-list
-        [books]="books | async">
+    [books]="books | async"
+    (reserveBook)="reserveBook($event)"
+    (returnBook)="returnBook($event)"
+    (syncBook)="syncBook($event)">
 </book-list>

@@ -8,13 +8,19 @@
         <p [innerHtml]="book.volumeInfo.description"></p>
     </md-card-content>
     <md-card-footer class="footer">
-        <md-icon *ngIf="book.volumeInfo.synced">sync</md-icon>
-        <md-icon *ngIf="!book.volumeInfo.synced">sync_disabled</md-icon>
+        <md-icon class="material-icons success" *ngIf="book.volumeInfo.synced">sync</md-icon>
+        <md-icon class="material-icons error" *ngIf="!book.volumeInfo.synced">sync_disabled</md-icon>
         <p>{{book.volumeInfo.authors}}</p>
     </md-card-footer>
-    <md-card-actions align="end">
-        <button md-raised-button color="primary" (click)="doit()">
+    <md-card-actions align="end" [ngSwitch]="book.status">
+        <button *ngSwitchCase="'IN_SHELF'" md-raised-button color="primary" (click)="reserveBook.emit(book)">
             Reserve Book
+        </button>
+        <button *ngSwitchCase="'RESERVED'" md-raised-button color="primary" (click)="returnBook.emit(book)">
+            Book returned
+        </button>
+        <button *ngIf="!book.volumeInfo.synced" md-raised-button color="primary" (click)="syncBook.emit(book)">
+            Sync new book to firebase
         </button>
     </md-card-actions>
 </md-card>

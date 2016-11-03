@@ -1,4 +1,4 @@
-import {Component, ChangeDetectionStrategy, Input} from '@angular/core';
+import {Component, ChangeDetectionStrategy, Input, Output, EventEmitter} from '@angular/core';
 import {BookVolume} from '../custom-types/bookVolume';
 
 @Component({
@@ -11,4 +11,10 @@ export class BookComponent {
 
     @Input()
     book: BookVolume;
+    @Output()
+    reserveBook =  new EventEmitter<BookVolume>();
+    @Output()
+    returnBook =  new EventEmitter<BookVolume>();
+    @Output()
+    syncBook =  new EventEmitter<BookVolume>();
 }

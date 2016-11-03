@@ -1,3 +1,8 @@
 <div *ngFor="let book of books">
-  <book [book]="book"></book>
+  <book
+      [book]="book"
+      (reserveBook)="reserveBook.emit($event)"
+      (returnBook)="returnBook.emit($event)"
+      (syncBook)="syncBook.emit($event)">
+  </book>
 </div>
