@@ -1,5 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import {AngularFire, FirebaseListObservable} from 'angularfire2';
+import {AngularFire} from 'angularfire2';
 import {GoogleBooksService} from './shared/google-books.service';
 import {Observable} from 'rxjs';
 import 'rxjs/Rx';
