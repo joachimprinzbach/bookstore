@@ -1,13 +1,15 @@
 import {BrowserModule} from '@angular/platform-browser';
 import {NgModule, NO_ERRORS_SCHEMA} from '@angular/core';
 import {FormsModule} from '@angular/forms';
-import {MaterialModule} from '@angular/material';
 import {HttpModule} from '@angular/http';
 import {AngularFireModule} from 'angularfire2';
 import {AppComponent} from './app.component';
 import {GoogleBooksService} from './shared/google-books.service';
 import {BookComponent} from './book/book.component';
 import { BookListComponent } from './book-list/book-list.component';
+import {AngularFireDatabaseModule} from 'angularfire2/database';
+import {CdkAccordion, MdButtonModule, MdCardModule} from '@angular/material';
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 
 export const firebaseConfig = {
     apiKey: "AIzaSyBj1PXcwjmVh5mRrWK5kEThuFK5dXLFibQ",
@@ -28,8 +30,11 @@ export const firebaseConfig = {
         BrowserModule,
         FormsModule,
         HttpModule,
-        MaterialModule.forRoot(),
-        AngularFireModule.initializeApp(firebaseConfig)
+        BrowserAnimationsModule,
+        MdButtonModule,
+        MdCardModule,
+        AngularFireModule.initializeApp(firebaseConfig),
+        AngularFireDatabaseModule
     ],
     providers: [GoogleBooksService],
     bootstrap: [AppComponent],

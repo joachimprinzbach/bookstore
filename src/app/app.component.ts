@@ -1,34 +1,34 @@
 import {Component, OnInit} from '@angular/core';
-import {AngularFire, FirebaseListObservable} from 'angularfire2';
 import {GoogleBooksService} from './shared/google-books.service';
-import {Observable} from 'rxjs';
-import 'rxjs/Rx';
 import {BookVolume} from './custom-types/bookVolume';
 import {BookStatus} from './custom-types/bookStatus';
+import {AngularFireDatabase} from 'angularfire2/database';
+import {AngularFireList} from 'angularfire2/database/interfaces';
+import {Observable} from 'rxjs/Observable';
+import {combineLatest} from 'rxjs/observable/combineLatest';
 
 @Component({
     selector: 'app-root',
-    templateUrl: './app.component.html',
-    styleUrls: ['./app.component.scss']
+    templateUrl: './app.component.html'
 })
 export class AppComponent implements OnInit {
     books: Observable<BookVolume[]>;
-    firebaseBooks: FirebaseListObservable<any>;
+    firebaseBooks: AngularFireList<BookStatus>;
 
-    constructor(private angularFire: AngularFire, private googleBookService: GoogleBooksService) {
+    constructor(private angularFire: AngularFireDatabase, private googleBookService: GoogleBooksService) {
     }
 
     ngOnInit() {
-        this.firebaseBooks = this.angularFire.database.list('/items');
-        this.books = Observable.combineLatest(this.googleBookService.getShelf(), this.firebaseBooks)
+        this.firebaseBooks = this.angularFire.list<BookStatus>('items');
+        this.books = combineLatest(this.googleBookService.getShelf(), this.firebaseBooks.valueChanges())
             .map(data => {
                 let books: BookVolume[] = data[0];
-                let items: BookStatus[] = data[1];
+                let items: any[] = data[1];
                 return books.map(book => {
                     let correspondingFirebaseObj: BookStatus = items.find(item => item.id === book.id);
                     let bookExistsInFirebase: boolean = !!correspondingFirebaseObj;
                     book.volumeInfo.synced = bookExistsInFirebase;
-                    if(bookExistsInFirebase) {
+                    if (bookExistsInFirebase) {
                         book.firebaseKey = correspondingFirebaseObj['$key'];
                         book.status = correspondingFirebaseObj.status;
                     }
